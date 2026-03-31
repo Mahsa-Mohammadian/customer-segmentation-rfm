@@ -43,7 +43,9 @@ Customers were segmented using:
 	•	SQL (PostgreSQL)
 	•	Power BI
 
-  📊 Dashboard
+  ## 📊 Dashboard
+
+![Customer Segmentation Dashboard](./customer-segmentation-dashboard.png)
 
   💡 Business Impact
 
